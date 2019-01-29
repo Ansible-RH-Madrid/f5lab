@@ -1,5 +1,5 @@
 # ansible-automates-F5-lab
-Laboratory to manage F5 (bigIP) load balancer
+Laboratory to manage F5 (bigIP) load balancer from Ansible Tower
 
 ## How to start 
 
